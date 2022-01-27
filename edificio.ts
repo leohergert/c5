@@ -77,6 +77,7 @@ function main() {
 	testClaseEdificio();
 	console.log("cambio");
 	console.log("cambio");
+	console.log("cambio desde la pc");
 	
 }
 main();
